@@ -1,11 +1,13 @@
 # Olá, eu sou Nickolas. 
 **Estudante de Desenvolvimento de Sistemas | Focado em Python, HTML e CSS | 
-Almejo ser programador full stack profissional**   
+Almejo ser programador full stack profissional
+Criativo e com experiência em artes visuais**   
 --- 
 ## Sobre mim   
-Atualmente cursando **Técnico em Desenvolvimento de Sistemas**   
-Sempre aprendendo novas tecnologias e boas práticas de programação   
-Interesse especial em **projetos web** e **desenvolvimento front-end**    
+🎓 Atualmente cursando **Técnico em Desenvolvimento de Sistemas**   
+📖 Sempre aprendendo novas tecnologias e boas práticas de programação   
+🖥️ Interesse especial em **projetos web** e **desenvolvimento front-end**  
+🎨 Criatividade na criação de interfaces
 
 ---
 
@@ -21,7 +23,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 
 --- 
 
-## Estatísticas do GitHub 
+## 📊Estatísticas do GitHub 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nicko-607&show_icons=true&theme=tokyonight)
 
 --- 
