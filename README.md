@@ -1,5 +1,5 @@
 # Olá, eu sou Nickolas. 
-**Estudante de Desenvolvimento de Sistemas | Focado em Python, HTML e CSS | 
+**Estudante de Desenvolvimento de Sistemas | Focado em Python, HTML e CSS |
 Almejo ser programador full stack profissional
 Criativo e com experiência em artes visuais**   
 --- 
