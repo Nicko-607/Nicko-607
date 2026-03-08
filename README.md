@@ -6,8 +6,8 @@ Preparando-se para o mercado de tecnologia
 Contato: nickolasferreira2018@gmail.com 
 
 ## 
-Como me encontrar 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](nickolasferreira2018@gmail.com)
+Como me encontrar: 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=blue)](nickolasferreira2018@gmail.com)
 <!--
 **Nicko-607/Nicko-607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
